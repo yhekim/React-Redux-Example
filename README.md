@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+- https://react-redux-simple.netlify.app/
+
+## Description
+
+Project aims to create a Pizza Siparis Formu.
+
+![gif](https://raw.githubusercontent.com/yhekim/React-Redux-Example/main/react-redux.gif)
+
 ## Available Scripts
 
 In the project directory, you can run:
